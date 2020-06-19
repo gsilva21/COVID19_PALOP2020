@@ -1,0 +1,6 @@
+Country/Region,Confirmed,Deaths,Recovered,Active,New cases,New deaths,New recovered,Deaths / 100 Cases,Recovered / 100 Cases,Deaths / 100 Recovered,Confirmed last week,1 week change,1 week % increase,WHO Region
+Angola,166,8,64,94,11,1,0,4.82,38.55,12.5,118,48,40.68,Africa
+Cabo Verde,823,7,377,439,31,0,0,0.85,45.81,1.86,657,166,25.27,Africa
+Guinea-Bissau,1492,15,153,1324,0,0,0,1.01,10.25,9.8,1389,103,7.42,Africa
+Mozambique,662,4,0,658,11,0,0,0.6,0.0,inf,489,173,35.38,Africa
+Sao Tome and Principe,688,12,191,485,5,0,3,1.74,27.76,6.28,632,56,8.86,Africa

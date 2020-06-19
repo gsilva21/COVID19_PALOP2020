@@ -1,0 +1,6 @@
+Country/Region,Continent,Population,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,NewRecovered,ActiveCases,"Serious,Critical",Tot Cases/1M pop,Deaths/1M pop,TotalTests,Tests/1M pop,WHO Region
+Guinea-Bissau,Africa,1966033,1492,,15,,153,,1324,5,759,8,1500,763,Africa
+Cabo Verde,Africa,555773,823,,7,,377,,439,,1481,13,1307,2352,Africa
+Sao Tome and Principe,Africa,218998,688,,12,,191,,485,,3142,55,1595,7283,Africa
+Mozambique,Africa,31216274,662,,4,,175,,483,,21,0.1,20263,649,Africa
+Angola,Africa,32818784,166,,8,,64,,94,1,5,0.2,10000,305,Africa
